@@ -6,6 +6,7 @@ window 64bit
 
 // English documendation <br>
 https://siteblocker.nesez.com/index-en.php
+https://docs.nesez.com/2020/10/how-to-use-nesez-siteblocker.html
 
 //korean documendation<br>
 https://siteblocker.nesez.com/index-ko.php
