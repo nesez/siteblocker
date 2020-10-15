@@ -1,5 +1,5 @@
 # siteblocker
-fast site blocker operating in windows
+fast site blocker operates in windows
 
 supports
 window 64bit
